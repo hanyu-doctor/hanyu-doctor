@@ -12,3 +12,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;河南省卫健委联合共建项目&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主持&nbsp;&nbsp;&nbsp;&nbsp; LHGJ2020031<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;国家自然科学基金面上项目 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参与&nbsp;&nbsp;&nbsp;&nbsp; 81872180<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 国家自然科学基金联合基金项目&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参与&nbsp;&nbsp;&nbsp;&nbsp; U2004113
+
+![图书](images/1ad1fff59d1751c98ee347ad698296d3.jpg)
