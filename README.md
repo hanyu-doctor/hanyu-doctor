@@ -1,14 +1,37 @@
 # 韩钰 
-[个人情况介绍](#personal-intro) | [教育&培训经历](#education) | [科研成果](#research) | [代表性译著](#translations) 
+<div style="background-color:#f0f7ff;
+            padding:8px 15px;
+            border-radius:8px;
+            margin-bottom:15px;
+            box-shadow:0 1px 3px rgba(0,0,0,0.05);">
+  <a href=" " style="margin-right:15px;
+                                  text-decoration:none;
+                                  color:#0066cc;
+                                  font-weight:500;">个人情况介绍</a >
+  <a href="#education" style="margin-right:15px;
+                              text-decoration:none;
+                              color:#0066cc;
+                              font-weight:500;">教育&培训经历</a >
+  <a href="#research" style="margin-right:15px;
+                             text-decoration:none;
+                             color:#0066cc;
+                             font-weight:500;">科研成果</a >
+  <a href="#translations" style="margin-right:15px;
+                                 text-decoration:none;
+                                 color:#0066cc;
+                                 font-weight:500;">代表性译著</a >
+</div>
 
-## 个人情况介绍<a id="personal-intro"></a >
+---
+
+## 🩺 个人情况介绍<a id="personal-intro"></a >
 医学博士&nbsp;&nbsp; &nbsp;&nbsp;九三学社&nbsp;&nbsp; &nbsp;&nbsp; 主治医师<br>
 郑州大学第一附属医院&nbsp;&nbsp; &nbsp;&nbsp; 骨科医学部<br>
 亚专业方向：运动医学、脊柱外科
 
 ---
 
-## 教育&培训经历<a id="education"></a >
+## 🎓 教育&培训经历<a id="education"></a >
 | 单位/机构                 | 经历类型   | 时间       |
 |--------------------------|------------|------------|
 | 中国人民解放军总医院（骨科）| 进修学习   | （2023）|
@@ -18,7 +41,7 @@
 
 ---
 
-## 科研成果<a id="research"></a >
+## 🔬  科研成果<a id="research"></a >
 | 项目类型                   | 参与角色 | 项目编号     |
 |----------------------------|----------|--------------|
 | 中国博士后科学基金面上资助   | 主持     | 219M662546   |
@@ -28,7 +51,7 @@
 
 ---
  
-## 代表性译著<a id="translations"></a >
+## 📚 代表性译著<a id="translations"></a >
 | 年份 | 译著名称               | 角色   |
 |------|------------------------|--------|
 | 2017 | 《脊柱外科手术学》| 副主译 |
