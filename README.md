@@ -1,16 +1,30 @@
-## Hi  我是韩钰 👋
-个人情况介绍： 医学博士 &nbsp;&nbsp;&nbsp;&nbsp;九三学社&nbsp;&nbsp;&nbsp;&nbsp; 主治医师<br> 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;郑州大学第一附属医院&nbsp;&nbsp;&nbsp;&nbsp; 骨科医学部 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;亚专业方向：运动医学&nbsp;&nbsp;&nbsp;&nbsp; 脊柱外科<br>
-             
-<br>教育&培训经历：中国人民解放军总医院（骨科）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;进修学习 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2023）<br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;郑州大学博士后流动站（临床医学）&nbsp;&nbsp;&nbsp;&nbsp; 博士后工作 &nbsp;&nbsp;&nbsp;&nbsp;（2019-2021）<br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;北京大学医学部（外科学）&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士研究生 &nbsp;&nbsp;&nbsp;&nbsp;（2016-2019）<br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;郑州大学（外科学）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士研究生 &nbsp;&nbsp;&nbsp;&nbsp;（2013-2016）
+# 韩钰 
 
-<br>科研成果：中国博士后科学基金面上资助&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;主持&nbsp;&nbsp;&nbsp;&nbsp; 219M662546<br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;河南省卫健委联合共建项目&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主持&nbsp;&nbsp;&nbsp;&nbsp; LHGJ2020031<br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;国家自然科学基金面上项目 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参与&nbsp;&nbsp;&nbsp;&nbsp; 81872180<br>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 国家自然科学基金联合基金项目&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参与&nbsp;&nbsp;&nbsp;&nbsp; U2004113
+## 个人情况介绍
+医学博士&nbsp;&nbsp; &nbsp;&nbsp;九三学社&nbsp;&nbsp; &nbsp;&nbsp; 主治医师<br>
+郑州大学第一附属医院&nbsp;&nbsp; &nbsp;&nbsp; 骨科医学部<br>
+亚专业方向：运动医学、脊柱外科
 
-![图书](images/408e951d5ab2cab26d0272a53078f9dc.png)
+## 教育&培训经历
+| 单位/机构                 | 经历类型   | 时间       |
+|--------------------------|------------|------------|
+| 中国人民解放军总医院（骨科）| 进修学习   | （2023）|
+| 郑州大学博士后流动站（临床医学） | 博士后工作 | （2019-2021）|
+| 北京大学医学部（外科学）| 博士研究生 | （2016-2019）|
+| 郑州大学（外科学）| 硕士研究生 | （2013-2016）|
+
+## 科研成果
+| 项目类型                   | 参与角色 | 项目编号     |
+|----------------------------|----------|--------------|
+| 中国博士后科学基金面上资助   | 主持     | 219M662546   |
+| 河南省卫健委联合共建项目     | 主持     | LHGJ2020031  |
+| 国家自然科学基金面上项目     | 参与     | 81872180     |
+| 国家自然科学基金联合基金项目 | 参与     | U2004113     |
+
+## 代表性译著
+| 年份 | 译著名称               | 角色   |
+|------|------------------------|--------|
+| 2017 | 《脊柱外科手术学》| 副主译 |
+| 2022 | 《当代骨科诊断与治疗》| 译者   |
+| 2022 | 《脊柱外科学》| 译者   |
+| 2025 | 《The Shoulder》| 主译   |
