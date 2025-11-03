@@ -1,4 +1,4 @@
-# <center>韩钰 · &nbsp;&nbsp;骨科医学博士</center>
+# <center>韩钰 · &nbsp;骨科医学博士</center>
 <div style="background-color:#f0f7ff;
             padding:8px 15px;
             border-radius:8px;
